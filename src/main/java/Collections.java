@@ -24,7 +24,6 @@ public class Collections {
                         uniqueNums += 1;
                     }
                 }
-            System.out.println(subArray +" "+ uniqueNums);
             if(uniqueNums>maxUniqueNums){
                 maxUniqueNums = uniqueNums;
             }
